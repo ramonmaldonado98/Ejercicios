@@ -1,16 +1,25 @@
 p.a{
-    
-
+   font-style: italic;
+   font-size: 1.1em;
+   background-color: rgba(190, 176, 190, 0.548); 
+   
 }
 
 p.b{
+    text-transform: uppercase;
+    font-size: 1.5em;
+    background-color: rgba(231, 235, 0, 0.473);
 
 }
 
 p.c{
+    font-style: normal;
+    font-size: 2.0em;
+    background-color: rgba(255, 153, 153, 0.418);
 
 }
 
 p.d{
+    background-color: rgba(255, 187, 187, 0.384);
 
 }
