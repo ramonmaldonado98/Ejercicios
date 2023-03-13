@@ -1,0 +1,15 @@
+p.gris{
+    background-color: gray;
+    color: white;
+}
+
+p.verde{
+    background-color: #90ee90;
+    color:blue;opacity: 0.5;
+   
+}
+
+p.amarillo{
+    background-color: lightyellow;
+    color: mediumblue;
+}

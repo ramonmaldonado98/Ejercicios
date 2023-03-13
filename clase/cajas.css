@@ -1,0 +1,26 @@
+#primera{
+    text-align: center;
+    color:chocolate;
+    padding: 1%;
+   border-top: green dotted 5px;
+   border-bottom: red dotted 5px;
+   border-left: blue dashed 5px;
+   border-right: yellow dashed 5px; 
+}
+#segunda{
+    text-align: center;
+    color:chocolate;
+    padding: 1%;
+    border-top: rgb(18, 102, 139) solid 5px;
+    border-bottom: rgb(236, 80, 229) solid 5px;
+    border-left: rgb(83, 12, 11) solid 5px;
+    border-right: rgb(83, 12, 11) solid 5px; 
+
+}
+ #tercera{
+    text-align: center;
+    color:grey;
+    padding: 1%;
+    border: black solid;
+ }
+

@@ -1,0 +1,38 @@
+#primera{
+    padding: 1%;
+    border: rgb(93, 144, 253) solid ;
+ }
+
+ #segunda{
+    border-width: 100cm;
+    border: solid 7px rgb(245, 0, 0);
+ }
+
+ #tercera{
+   border-width: 100cm;
+   border: solid 4px rgb(38, 25, 150);
+}
+#cuarta{
+   border-width: 100cm;
+   border: dotted 3px rgb(217, 224, 20);
+}
+#quinta{
+   border-width: 100cm;
+   border-top: green dotted 5px;
+   border-bottom: red dotted 5px;
+   border-left: blue dotted 5px;
+   border-right: yellow dotted 5px; 
+}
+#sexta{
+   border-width: 100cm;
+   border: solid 4px rgb(0, 0, 0);
+   margin: 10px;
+}
+#septima{
+   border: solid 4px rgb(0, 0, 0);
+   margin: 2px;
+}
+#octava{
+   border-width: 100cm;
+   border: solid 4px rgb(38, 25, 150);
+}

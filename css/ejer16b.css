@@ -1,0 +1,9 @@
+@font-face {
+    font-family: "Mystery Quest";
+    src: url("mystery-quest.woff2");
+}
+
+p{
+    font-family: 'Mystery Quest', cursive;
+    font-size: 150%;
+}

@@ -1,0 +1,10 @@
+div {
+    width: 400px;
+    border: 2px solid gray;
+}
+#capa1{
+    position: fixed;
+    left: 80px;
+    top: 40px;
+    background-color: lightgrey;
+}

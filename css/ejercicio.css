@@ -1,0 +1,11 @@
+h1 {
+    border-bottom:2px solid;
+    border-color:blue;
+}
+
+.dotted {border-style: dotted solid; border-color:red}
+
+.solid {border-style: solid; border-color:grey}
+
+.dotteds {border-style: dotted solid; border-color:green}
+

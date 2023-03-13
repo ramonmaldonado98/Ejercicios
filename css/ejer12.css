@@ -1,0 +1,17 @@
+div{
+    padding-top: 5%;
+    padding-bottom: 5%;
+    background-image: url("../imagenes/ciudad.jpg");
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+div.a{
+    padding: 5%;
+    padding-bottom: 5%;
+    background-image: url("../imagenes/ciudad.jpg");
+    background-repeat: no-repeat;
+    background-size: 300px 100px;
+    
+
+}

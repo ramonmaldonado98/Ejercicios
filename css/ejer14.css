@@ -1,0 +1,15 @@
+h1{
+  margin: auto;
+  width: 300px;
+  background-color: aquamarine;
+ }
+
+ p{
+  padding: 25px 50px;
+  background-color: aquamarine;
+ }
+
+ p.a{
+  padding: 50px;
+  background-color: aquamarine
+ }

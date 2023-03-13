@@ -1,0 +1,40 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding:0;
+}
+
+li{
+    list-style-type: none;
+    position: relative;
+}
+
+li a{
+    text-decoration: none;
+    display: block;
+    padding: 5px 10px;
+    width: 120px;
+    border: 1px solid rgb(0, 88, 28);
+    color:#fff;
+    background-color: rgb(18, 2, 81);
+}
+
+li a:hover{
+    color:#000;
+    background-color: #fff;
+}
+
+li>ul{
+    display:none;
+    position:absolute;
+    top:0px;
+    left:120px;
+}
+
+li:hover>ul{
+    display: block;
+}
+
+li > ul >li{
+    float: left;
+}

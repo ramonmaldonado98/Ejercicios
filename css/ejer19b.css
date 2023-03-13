@@ -1,0 +1,10 @@
+div {
+    display: inline;
+    float: left;
+    margin: 1em;
+    padding: .6em;
+    border: 2px solid #555;
+    width: 150px;
+    height: 200px;
+    font: 1em Arial, Helvetica, sans-serif;
+  }

@@ -1,0 +1,13 @@
+body {
+    background-color: #aaa;
+    background-image: url();
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
+.container{
+    max-width: 1200px;
+    margin: 50px auto;
+    background-color: rgba(134,134,134,0.8);
+    padding: 75px 0px;
+}

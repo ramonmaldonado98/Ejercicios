@@ -1,0 +1,15 @@
+p.verde{
+    background-color: rgb(122, 209, 8);
+    color: rgb(49, 30, 191);
+}
+
+p.azul{
+    background-color: #14c684;
+    color:rgb(4, 64, 1);opacity: 0.5;
+   
+}
+
+p.rosa{
+    background-color: rgb(124, 7, 65);
+    color: mediumblue;
+}
