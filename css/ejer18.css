@@ -1,0 +1,38 @@
+body {
+    background-color: #aaa;
+    background-image: url();
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
+.container{
+    max-width: 1200px;
+    margin: 50px auto;
+    background-color: rgba(134,134,134,0.8);
+    padding: 75px 0px;
+}
+
+p.a{
+    max-width: 200;
+    margin: 50px 200px;
+    padding: 50px 0px;
+    background-color:red;
+}
+
+h1{
+    text-align: center;
+}
+
+p.b{
+    max-width: 200;
+    margin: 50px 200px;
+    padding: 50px 0px;
+    background-color: yellow;
+}
+
+p.c{
+    max-width: 200;
+    margin: 50px 200px;
+    padding: 50px 0px;
+    background-color: blue;
+}

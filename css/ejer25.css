@@ -1,0 +1,53 @@
+body {
+    background: linear-gradient(to bottom right, yellow, black);
+    background-repeat: no-repeat;
+}
+#p1 {
+    border-style: solid;
+    border-color: black;
+    border-width: 5px;
+    border-top-left-radius: 50px 50px;
+    border-bottom-right-radius: 50px 50px;
+    border-top-right-radius: 50px 50px;
+    border-bottom-left-radius: 50px 50px;
+    color: white;
+    background-color: blue;
+    background-repeat: no-repeat;
+    background-image: url(../imagenes/mariposa.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: right bottom;
+}
+#p2 {
+    border: solid;
+    border-color: gray;
+    border-width: 5px;
+    border-top-left-radius: 20px 20px;
+    border-bottom-right-radius: 20px 20px;
+    border-top-right-radius: 20px 20px;
+    border-bottom-left-radius: 20px 20px;
+    color: white;
+    background-color: black;
+    background-repeat: no-repeat;
+    background-image: url(../imagenes/mariposa.jpg);
+    background-repeat: repeat-y;
+    background-size: contain;
+    background-position: left;
+}
+
+#p3{
+    border: solid;
+    border-color: black;
+    border-width: 5px;
+    border-top-left-radius: 5px 5px;
+    border-bottom-right-radius: 5px 5px;
+    border-top-right-radius: 5px 5px;
+    border-bottom-left-radius: 5px 5px;
+    color: black;
+    background-color: gray;
+    background-repeat: no-repeat;
+    background-image: url(../imagenes/mariposa.jpg);
+    background-repeat: repeat-x;
+    background-size: contain;
+    background-position: left;
+}

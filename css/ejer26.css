@@ -1,0 +1,23 @@
+#p1 {
+    background-color: cyan;
+    border-style: solid;
+    border-color: black;
+    border-width: 4px;
+
+}
+#p2 {
+    background-image: linear-gradient(blue, red, lightgreen);
+    border-style: solid;
+    border-color: black;
+    border-width: 4px;
+    position: relative;
+    left: 100px;
+    bottom: 50px;
+}
+
+#p3{
+    background-image: radial-gradient(red, yellow, green);
+    border-style: solid;
+    border-color: black;
+    border-width: 4px;
+}

@@ -1,14 +1,13 @@
 #p1 {
     position: relative;
-    top: 7em;
     width: 500px;
     border: solid 3px;
-    background-color: cyan;
+    background-color: yellow;
     overflow: hidden;
 }
 #p2 {
     position: relative;
-    top: -8em;
+    top: 0px;
     width: 500px;
     border: solid 3px;
     background-color: orange;
@@ -16,18 +15,21 @@
 }
 
 #p3{
-    position: relative;
-    top: -14em;
-    left: 40em;
-    width: 500px;
+    position: absolute;
+    left: 90px;
+    width: 300px;
+    height: 100px;
+    top: 20px;
     overflow: hidden;
     border: solid 3px;
     background-color: green;
 }
 #p4 {
-    position: relative;
-    top: -7em;
-    width: 500px;
+    position: absolute;
+    top: 150px;
+    left: 90px;
+    width: 300px;
+    height: 200px;
     overflow: hidden;
     border: solid 3px;
     background-color: cyan;

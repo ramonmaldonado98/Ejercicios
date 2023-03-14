@@ -1,0 +1,13 @@
+div{
+    background-color: grey;
+    padding-top: 10px;
+    padding-left: 50px;
+    height: 400px;
+    width: 400px;
+
+}
+
+div.a{
+    background-color: rgb(192, 184, 184);
+    position: fixed;
+}

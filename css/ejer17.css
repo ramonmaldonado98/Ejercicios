@@ -11,3 +11,14 @@ body {
     background-color: rgba(134,134,134,0.8);
     padding: 75px 0px;
 }
+
+div.a{
+    max-width: 200;
+    margin: 50px 200px;
+    padding: 25px 0px;
+    background-color: rgba(245, 245, 220, 0.541);
+}
+
+h1{
+    text-align: center;
+}
